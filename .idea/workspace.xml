@@ -2,8 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6835ef32-35f4-4810-af32-8f6a35fee351" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/neu/ArrangeNumInArrayToMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/neu/FirstNotRepeatingCharInCharStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/neu/FirstNotRepeatingCharInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/neu/GetMavValueOfPresent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/neu/GetTranslationCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/neu/GetUglyNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/neu/LongestIncreaSubseq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/neu/LongestSubstringWithoutDuplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/neu/NumOf1Between1AndN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/neu/ThePointsOfNDice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/neu/tree/IsBalanceTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/AddTwoNum$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/AddTwoNum$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/AddTwoNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/AdjustOddBeforeEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/CutRope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/FindKLargestNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/FindKthFromEnd$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/FindKthFromEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/MedianInStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/MergeTwoSortedList$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/MergeTwoSortedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/NumOf1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/PathInMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/PowFun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/RegularMatch$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/RegularMatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/RemoveNthFromEnd$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/RemoveNthFromEnd$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/RemoveNthFromEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/RobotMovingCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/linkedlist/CloneComplexLinkedList$ComplexListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/linkedlist/CloneComplexLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/linkedlist/DeleteNodeInLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/linkedlist/EntryNodeOfLoopInLinkedList$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/linkedlist/EntryNodeOfLoopInLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/linkedlist/LinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/linkedlist/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/linkedlist/ReverseLinkedList$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/linkedlist/ReverseLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/matrix/PrintMatrixInCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/stack/IsPopOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/stack/MinStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/string/Permutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/tree/ConstructTreeWithPreInOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/tree/IsSymmetricTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/tree/JudgeHasSubtree$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/tree/JudgeHasSubtree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/tree/MirrorOfBinTree$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/tree/MirrorOfBinTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/tree/PrintFromTopToBottom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/tree/PrintFromTopToBottomByLine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/tree/PrintFromTopToBottomByZigzag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/tree/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/neu/tree/VerifySequenceOfBST.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,64 +84,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/string/Permutation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
-              <folding>
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="method#swap#0;class#Permutation#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/MedianInStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="20">
-                <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://G:/Language/Java/jdk1.8.0_144/src.zip!/java/util/PriorityQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="599">
-              <caret line="348" column="13" selection-start-line="348" selection-start-column="13" selection-end-line="348" selection-end-column="13" />
-              <folding>
-                <element signature="e#12969#12970#0" expanded="true" />
-                <element signature="e#13025#13026#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -111,6 +110,11 @@
       <find>to</find>
       <find>toS</find>
       <find>toStr</find>
+      <find>zig</find>
+      <find>count</find>
+      <find>main</find>
+      <find>permu</find>
+      <find>rmatch</find>
     </findStrings>
     <replaceStrings>
       <replace>'</replace>
@@ -127,7 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/cn/neu/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/neu/FindKLargestNum.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/neu/PathInMatrix.java" />
@@ -161,9 +164,24 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/neu/tree/ConstructTreeWithPreInOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/neu/tree/VerifySequenceOfBST.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/neu/linkedlist/CloneComplexLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/neu/string/Permutation.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/neu/MedianInStream.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/neu/NumOf1Between1AndN.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/neu/GetMavValueOfPresent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/neu/ArrangeNumInArrayToMin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/neu/GetTranslationCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/neu/LongestSubstringWithoutDuplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/neu/isUglyNum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/neu/IsUglyNum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/neu/GetUglyNum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/neu/FirstNotRepeatingCharInString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/neu/FirstNotRepeatingCharInCharStream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/neu/ThePointsOfNDice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/neu/Longest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/neu/LongestIncreSubseq.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/neu/LongestIncreaSubseq.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/neu/string/Permutation.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -181,10 +199,22 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ownplay" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="948" />
-    <option name="width" value="981" />
-    <option name="height" value="1032" />
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -236,7 +266,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549555272282" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551373314237" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -262,35 +292,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MedianInStream">
-    <configuration name="CloneComplexLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.neu.linkedlist.CloneComplexLinkedList" />
-      <module name="ownplay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.neu.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConstructTreeWithPreInOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.neu.tree.ConstructTreeWithPreInOrder" />
-      <module name="ownplay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.neu.tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MedianInStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.neu.MedianInStream" />
+  <component name="RunManager" selected="Application.FirstNotRepeatingCharInCharStream">
+    <configuration name="FirstNotRepeatingCharInCharStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.neu.FirstNotRepeatingCharInCharStream" />
       <module name="ownplay" />
       <extension name="coverage">
         <pattern>
@@ -302,12 +306,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.neu.string.Permutation" />
+    <configuration name="FirstNotRepeatingCharInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.neu.FirstNotRepeatingCharInString" />
       <module name="ownplay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.neu.string.*" />
+          <option name="PATTERN" value="cn.neu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -315,12 +319,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerifySequenceOfBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.neu.tree.VerifySequenceOfBST" />
+    <configuration name="GetUglyNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.neu.GetUglyNum" />
       <module name="ownplay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.neu.tree.*" />
+          <option name="PATTERN" value="cn.neu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestIncreaSubseq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.neu.LongestIncreaSubseq" />
+      <module name="ownplay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.neu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThePointsOfNDice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.neu.ThePointsOfNDice" />
+      <module name="ownplay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.neu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,11 +360,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MedianInStream" />
-        <item itemvalue="Application.Permutation" />
-        <item itemvalue="Application.CloneComplexLinkedList" />
-        <item itemvalue="Application.ConstructTreeWithPreInOrder" />
-        <item itemvalue="Application.VerifySequenceOfBST" />
+        <item itemvalue="Application.LongestIncreaSubseq" />
+        <item itemvalue="Application.ThePointsOfNDice" />
+        <item itemvalue="Application.FirstNotRepeatingCharInCharStream" />
+        <item itemvalue="Application.FirstNotRepeatingCharInString" />
+        <item itemvalue="Application.GetUglyNum" />
       </list>
     </recent_temporary>
   </component>
@@ -354,17 +384,22 @@
       <workItem from="1548938921168" duration="21237000" />
       <workItem from="1549066893558" duration="4757000" />
       <workItem from="1549083250484" duration="76726000" />
-      <workItem from="1549517513779" duration="4823000" />
+      <workItem from="1549517513779" duration="19372000" />
+      <workItem from="1549767078481" duration="16911000" />
+      <workItem from="1550241682526" duration="6464000" />
+      <workItem from="1550637207812" duration="5170000" />
+      <workItem from="1551371426871" duration="991000" />
+      <workItem from="1551373158275" duration="240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128163000" />
+    <option name="totallyTimeSpent" value="172488000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27324173" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26839128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -374,29 +409,29 @@
       <window_info anchor="bottom" id="Duplicate detector" order="0" weight="0.32978722" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.5141844" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.43617022" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.42095914" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.055062167" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.330373" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.330373" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" visible="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.26595744" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.32983023" />
       <window_info anchor="right" id="Database" order="8" weight="0.32983023" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27324173" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27728376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -406,15 +441,15 @@
       <window_info anchor="bottom" id="Duplicate detector" order="0" weight="0.32978722" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.38120568" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.43617022" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.42095914" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.055062167" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32978722" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.330373" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.26595744" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -422,9 +457,9 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.32983023" />
       <window_info anchor="right" id="Database" order="8" weight="0.32983023" />
     </layout-to-restore>
   </component>
@@ -512,8 +547,52 @@
           <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/neu/GetMavValueOfPresent.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/neu/GetMavValueOfPresent.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/neu/LongestSubstringWithoutDuplication.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/neu/GetUglyNum.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/neu/GetUglyNum.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/neu/LongestIncreaSubseq.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="nums" />
+        <watch expression="nums[pos2]" />
+        <watch expression="nums[pos3]" />
+        <watch expression="nums[pos5]" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -545,63 +624,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://G:/Language/Java/jdk1.8.0_144/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
-          <folding>
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="45" column="51" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/FindKLargestNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="42" column="44" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/PathInMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/RobotMovingCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-          <folding>
-            <element signature="method#check#0;class#RobotMovingCount#0" />
-            <element signature="method#getDigitSum#0;class#RobotMovingCount#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/CutRope.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/NumOf1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -688,13 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/RegularMatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/tree/IsSymmetricTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -775,13 +790,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/tree/PrintFromTopToBottomByZigzag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="26" column="63" lean-forward="true" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
         </state>
       </provider>
     </entry>
@@ -888,32 +896,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/string/Permutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-          <folding>
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="method#swap#0;class#Permutation#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://G:/Language/Java/jdk1.8.0_144/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="348" column="13" selection-start-line="348" selection-start-column="13" selection-end-line="348" selection-end-column="13" />
-          <folding>
-            <element signature="e#12969#12970#0" expanded="true" />
-            <element signature="e#13025#13026#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/MedianInStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
+        <state relative-caret-position="540">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -932,7 +917,159 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/tree/PrintFromTopToBottomByZigzag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/Language/Java/jdk1.8.0_144/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6340">
+          <caret line="348" column="13" selection-start-line="348" selection-start-column="13" selection-end-line="348" selection-end-column="13" />
+          <folding>
+            <element signature="e#12969#12970#0" expanded="true" />
+            <element signature="e#13025#13026#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/NumOf1Between1AndN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/ArrangeNumInArrayToMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+          <folding>
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/GetMavValueOfPresent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/IsUglyNum.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/LongestSubstringWithoutDuplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/GetTranslationCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+          <folding>
+            <element signature="e#856#857#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://G:/Language/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="381" column="29" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/FirstNotRepeatingCharInCharStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/FirstNotRepeatingCharInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/GetUglyNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="method#isUglyNum#0;class#GetUglyNum#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/ThePointsOfNDice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="29" />
+          <folding>
+            <element signature="e#1155#1156#0" expanded="true" />
+            <element signature="e#1181#1182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/RegularMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/tree/IsBalanceTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/string/Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="method#swap#0;class#Permutation#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/neu/LongestIncreaSubseq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
